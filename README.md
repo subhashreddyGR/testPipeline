@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/IdeabytesProducts/TankMonitoring/_apis/build/status/subhashreddyGR.testPipeline?branchName=main)](https://dev.azure.com/IdeabytesProducts/TankMonitoring/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
